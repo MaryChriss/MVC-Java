@@ -47,8 +47,6 @@ public class ProdutoDAOImpl implements ProdutosDAO{
             produtos.add(produto);
         }
 
-
-
         return produtos;
     }
 
